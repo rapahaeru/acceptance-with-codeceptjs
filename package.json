@@ -1,0 +1,16 @@
+{
+  	"name": "no-globals",
+  	"version": "1.0.0",
+  	"description": "segundo teste de aceitacao, nesse caso nenhum pacote sera utilizando globalmente",
+  	"main": "index.html",
+  	"scripts": {
+    	"test": "echo \"Error: no test specified\" && exit 1"
+  	},
+  	"author": "Raphael A Oliveira",
+  	"license": "MIT",
+	"devDependencies": {
+	"codeceptjs": "0.3.5",
+	"phantomjs-prebuilt": "2.1.7",
+	"webdriverio": "4.0.7"
+	}
+}

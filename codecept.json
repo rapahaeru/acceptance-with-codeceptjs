@@ -1,0 +1,15 @@
+{
+  "tests": "./test/spec/*_spec.js",
+  "timeout": 500000,
+  "output": "./test/output",
+   "helpers": {
+    "WebDriverIO": {
+      "browser": "chrome",
+      "url": "http://elo7.com.br"
+    }
+  },
+  "include": {},
+  "bootstrap": false,
+  "mocha": {},
+  "name": "acceptance-testing-no-globals"
+}
