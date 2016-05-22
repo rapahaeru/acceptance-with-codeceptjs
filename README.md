@@ -7,9 +7,13 @@ Primeiros passos de como configurar um teste de aceitação em javaScript. Utili
 Primeiro criamos a estrutura de pastas do nosso projeto:
 
 /
+
 ../test/
+
 ..../spec/
+
 ..../output/
+
 
 
 - Inicie utilizando os pacotes do Node
